@@ -1,4 +1,22 @@
 import streamlit as st
+
+import streamlit as st
+st.write("온도변환함수")
+
+st.button('C2F'):
+    #celsius = input_value
+     #fahrenheit = celsius * 9/5.0 + 32
+st.button('F2C'):
+    pass
+    #fahrenheit = input_value
+     #celsius = (fahrenheit - 32) / 9.0 * 5
+    
+     
+     
+     
+     
+     
+    
 st.write('Hello world!')
 
 st.header('st.button')
